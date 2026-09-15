@@ -1,0 +1,23 @@
+{
+  "replacement_rules": [
+    {
+      "name": "bodyhit",
+      "replace_ids": [
+        13110130082
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Parham\\Downloads\\universfield-bubble-pop-06-351337 (1).mp3"
+    },
+    {
+      "name": "headshot",
+      "replace_ids": [
+        16537337310,
+        16537449730
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Parham\\Downloads\\universfield-bubble-pop-06-351337.mp3"
+    }
+  ]
+}
