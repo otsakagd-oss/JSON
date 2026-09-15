@@ -1,0 +1,60 @@
+{
+  "replacement_rules": [
+    {
+      "name": "body",
+      "replace_ids": [
+        14652718299
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/skinbiidimimi/boneclawtommygun/refs/heads/main/boneclawtommygunbody.obj"
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        12613283569,
+        12613284036,
+        12613284249,
+        12613284768
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "idk to remove or not so",
+      "replace_ids": [
+        12613283355
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "mag",
+      "replace_ids": [
+        12613284529
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/skinbiidimimi/boneclawtommygun/refs/heads/main/tomy%20mag.obj"
+    },
+    {
+      "name": "boneclaw shoot",
+      "replace_ids": [
+        13087362838
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/skinbiidimimi/boneclawtommygun/raw/refs/heads/main/BONECLAWSHOOT%20(1).oga"
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        17160682738,
+        13197584241
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/skinbiidimimi/boneclawtommygun/blob/main/bonclawtommygunicon.png?raw=true"
+    }
+  ]
+}

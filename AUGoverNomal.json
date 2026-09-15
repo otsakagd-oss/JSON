@@ -1,0 +1,148 @@
+{
+  "replacement_rules": [
+    {
+      "name": "body",
+      "replace_ids": [
+        12613284249
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 122768941370476
+    },
+    {
+      "name": "iconaug",
+      "replace_ids": [
+        17160682738
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18770192853
+},
+    {
+      "name": "bolt",
+      "replace_ids": [
+        12613283569
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18687757291
+    },
+    {
+      "name": "top",
+      "replace_ids": [
+        14652718299
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18687757011
+    },
+    {
+      "name": "ok",
+      "replace_ids": [
+        12613284036
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18687757157
+    },
+    {
+      "name": "boly12",
+      "replace_ids": [
+        12613283355
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18687757424
+    },
+    {
+      "name": "inder",
+      "replace_ids": [
+        12613284768
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18687756845
+    },
+    {
+      "name": "boy",
+      "replace_ids": [
+        12613284529
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18687756685
+    },
+    {
+      "name": "soundshotaug",
+      "replace_ids": [
+        13087362838
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17662574783
+    },
+    {
+      "name": "idle",
+      "replace_ids": [
+        13010885336
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18875814511
+    },
+    {
+      "name": "equip",
+      "replace_ids": [
+        13010870236
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18875555761
+    },
+    {
+      "name": "inspect",
+      "replace_ids": [
+        13010893629
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18875805841
+    },
+    {
+      "name": "shoot",
+      "replace_ids": [
+        13010911854
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18875560888
+    },
+    {
+      "name": "sprint",
+      "replace_ids": [
+        13010904196
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18875820949
+    },
+    {
+      "name": "reload",
+      "replace_ids": [
+        13010900962
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18887149414
+    },
+    {
+      "name": "iconaug",
+      "replace_ids": [
+        17160682738
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18770192853
+    }
+  ]
+}
